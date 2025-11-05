@@ -1,0 +1,7 @@
+body {font-family: Arial, sans-serif; margin:0; padding:0; line-height:1.6;}
+header, footer {background:#1b263b; color:white; padding:20px; text-align:center;}
+.hero {padding:30px; text-align:center;}
+.whatsapp-btn, .review-btn {background:#25D366; padding:10px 20px; color:white; border-radius:8px; text-decoration:none;}
+.services, .appointment, .reviews {padding:20px;}
+form input, textarea {width:100%; padding:10px; margin-bottom:10px;}
+button {padding:10px 20px; background:#1b263b; color:white; border:none; border-radius:5px;}

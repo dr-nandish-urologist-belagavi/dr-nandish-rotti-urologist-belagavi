@@ -1,3 +1,6 @@
 
 title: Dr Nandish Blog
 markdown: kramdown
+collections:
+  blog:
+    output: true

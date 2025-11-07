@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Prostate Health: What Every Man Over 50 Should Know"
 date: 2025-11-07
 ---

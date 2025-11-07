@@ -1,6 +1,3 @@
-
-title: Dr Nandish Blog
+title: Rottis Kidney Care Centre
 markdown: kramdown
-collections:
-  blog:
-    output: true
+theme: minima

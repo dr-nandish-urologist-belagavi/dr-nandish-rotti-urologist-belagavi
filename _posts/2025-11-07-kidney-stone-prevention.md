@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "How to Prevent Kidney Stones: Simple Lifestyle Changes"
 date: 2025-11-07
 ---

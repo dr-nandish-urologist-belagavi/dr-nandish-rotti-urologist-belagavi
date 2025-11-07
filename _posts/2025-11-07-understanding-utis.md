@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Understanding UTIs: Symptoms, Causes, and Prevention"
 date: 2025-11-07
 ---
